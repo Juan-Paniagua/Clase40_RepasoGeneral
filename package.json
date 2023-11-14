@@ -1,0 +1,15 @@
+{
+  "name": "clase-41-server-repaso",
+  "version": "1.0.0",
+  "description": "Clase 40 - Backend repaso general",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/server.js",
+    "client": "node client/client.js" 
+  },
+  "keywords": ["tcp", "node", "server", "client"],
+  "author": "JuanPaniagua",
+  "license": "ISC",
+  "dependencies": {}
+}
