@@ -1,5 +1,4 @@
-{
-    "pizzas": [{
+        {
             "nombre": "Pizza Margherita",
             "ingredientes": ["tomate", "mozzarella", "albahaca"],
             "precio": 10.99,
@@ -59,5 +58,3 @@
             "precio": 14.99,
             "sabor": "variado"
         }
-    ]
-}
