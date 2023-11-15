@@ -23,6 +23,7 @@ Git status - Indica el estado de mi archivo en el repositorio local
 Git add - Comando usado para preparar los archivos indicados para que sean subidos a la net. Algo muy comun es utilizar el . para indicar todos los files del path donde me encuentro ubicado; Se debe indicar el lugar a donde subir a fin de que todos los commit sean en el mismo target path
 Git commit - ; Se suele subir con el parametro -m para indicar informacion sobre el commit (y/o los cambios aplicados con la nueva version que subimos)
 Git push - Comando usado para subir los files previamente logueados con add al directorio objetivo
+Git log - Permite ver el historial de modificaciones del archivo
 
 Un ejemplo que indico el profe sobre como es util el git:
 

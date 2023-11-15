@@ -5,11 +5,18 @@
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "node server/server.js",
-    "client": "node client/client.js" 
+    "server": "node server/server.mjs",
+    "client": "node client/client.mjs"
   },
-  "keywords": ["tcp", "node", "server", "client"],
+  "keywords": [
+    "tcp",
+    "node",
+    "server",
+    "client"
+  ],
   "author": "JuanPaniagua",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
