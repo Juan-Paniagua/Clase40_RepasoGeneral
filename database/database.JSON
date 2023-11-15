@@ -1,0 +1,63 @@
+{
+    "pizzas": [{
+            "nombre": "Pizza Margherita",
+            "ingredientes": ["tomate", "mozzarella", "albahaca"],
+            "precio": 10.99,
+            "sabor": "clásico"
+        },
+        {
+            "nombre": "Pizza Pepperoni",
+            "ingredientes": ["tomate", "mozzarella", "pepperoni"],
+            "precio": 12.99,
+            "sabor": "salado"
+        },
+        {
+            "nombre": "Pizza Vegetariana",
+            "ingredientes": ["tomate", "mozzarella", "pimientos", "cebolla", "aceitunas"],
+            "precio": 11.99,
+            "sabor": "fresco"
+        },
+        {
+            "nombre": "Pizza Hawaiana",
+            "ingredientes": ["tomate", "mozzarella", "piña", "jamón"],
+            "precio": 13.99,
+            "sabor": "dulce y salado"
+        },
+        {
+            "nombre": "Pizza BBQ",
+            "ingredientes": ["salsa barbacoa", "mozzarella", "pollo", "cebolla"],
+            "precio": 14.99,
+            "sabor": "ahumado"
+        },
+        {
+            "nombre": "Pizza Quattro Formaggi",
+            "ingredientes": ["mozzarella", "gorgonzola", "parmesano", "queso de cabra"],
+            "precio": 15.99,
+            "sabor": "quesoso"
+        },
+        {
+            "nombre": "Pizza Marinara",
+            "ingredientes": ["tomate", "ajo", "orégano", "aceitunas"],
+            "precio": 10.99,
+            "sabor": "mediterráneo"
+        },
+        {
+            "nombre": "Pizza Funghi",
+            "ingredientes": ["tomate", "mozzarella", "champiñones", "cebolla"],
+            "precio": 11.99,
+            "sabor": "terroso"
+        },
+        {
+            "nombre": "Pizza Diavola",
+            "ingredientes": ["tomate", "mozzarella", "salami picante", "guindilla"],
+            "precio": 13.99,
+            "sabor": "picante"
+        },
+        {
+            "nombre": "Pizza Capricciosa",
+            "ingredientes": ["tomate", "mozzarella", "jamón", "alcachofas", "aceitunas"],
+            "precio": 14.99,
+            "sabor": "variado"
+        }
+    ]
+}
